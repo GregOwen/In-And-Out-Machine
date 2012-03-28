@@ -2,7 +2,6 @@ Written By: Gregory Owen
 Date: 3/27/12
 
 Plays a game of In and Out Machine with the user:
-The program generates random integer coefficients for a polynomial of a specified degree.
-	The user then inputs values and the program returns the result of the polynomial
-		evaluated at those values
+	The program generates random integer coefficients for a polynomial of a specified degree.
+	The user then inputs values and the program returns the result of the polynomial evaluated at those values
 	After any guess, the player may guess the "rule" for the machine
